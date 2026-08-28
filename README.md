@@ -7,8 +7,9 @@ I am a Knoxville, TN based software developer (by way of Durban, South Africa ðŸ
 - Next.js
 - Node.js
 - TailwindCSS
+- MUI Components
+- Supabase
+- Firebase
 
-#### I am currently working on a website for my wife who is an artist. The site will be a one-stop location for her shop, journal, newsletter, portfolio, and link for commisions.
-Stack: TypeScript, React, TailwindCSS, and Next.js (App Router). I am also using Supabase for authentication and data management (email addresses, products etc.)
-
-There will also be an admin portal where she will be able to add/remove/edit products, write newsletters or journal entries, and add/remove/edit pieces in her portfolio
+#### I am currently working on polishing up an already deployed website I built to track a physical media collection. In today's world physical media is becoming more coveted and necessary and I know from experience how hard it is to keep track of what you have, and don't have, yet. The site has a Collection and a Wishlist accounting for different formats (DVD, Blu-Ray, 4K etc.), condition, purchase date, price, location etc. as well as reviews, ratings, and notes.
+Stack: TypeScript, React, MUI Components, and Next.js (App Router). I am also using Firebase for authentication and data management (email/passwords, Collection, Wishlist etc.)
